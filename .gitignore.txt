@@ -1,0 +1,11 @@
+__pycache__/
+*.class
+*.log
+*.jar
+*.db
+*.env
+venv/
+.DS_Store
+.idea/
+.vscode/
+target/
